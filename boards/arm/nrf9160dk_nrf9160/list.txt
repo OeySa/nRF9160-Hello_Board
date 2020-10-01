@@ -1,0 +1,17 @@
+total 26
+board.cmake
+CMakeLists.txt
+doc
+Kconfig
+Kconfig.board
+Kconfig.defconfig
+list.txt
+nrf52840_reset.c
+nrf9160dk_nrf9160.dts
+nrf9160dk_nrf9160.yaml
+nrf9160dk_nrf9160_common.dts
+nrf9160dk_nrf9160_defconfig
+nrf9160dk_nrf9160_partition_conf.dts
+nrf9160dk_nrf9160ns.dts
+nrf9160dk_nrf9160ns.yaml
+nrf9160dk_nrf9160ns_defconfig
