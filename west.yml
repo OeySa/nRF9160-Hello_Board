@@ -8,5 +8,3 @@ manifest:
       remote: nordic
       revision: v1.3.1
       import: true
-  self:
-    import: firmware
