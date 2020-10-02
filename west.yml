@@ -9,5 +9,4 @@ manifest:
       revision: v1.3.1
       import: true
   self:
-    
-    path: user_code
+    path: user_code
